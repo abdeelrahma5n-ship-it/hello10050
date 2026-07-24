@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Gold Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M24,24 h60 a8,8 0 0 1 8,8 v44 a8,8 0 0 1 -8,8 h-60 a8,8 0 0 1 -8,-8 v-44 a8,8 0 0 1 8,-8 z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#D4AF37" />
+    <!-- Golden Leaping Horse Silhouette & Roof Crest -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,32 L36,46 H42 V68 H66 V46 H72 Z M54,37.5 L61.5,43.5 H46.5 Z M46,50 H62 V64 H46 Z" />
+    <path
+        android:fillColor="#F7E08B"
+        android:pathData="M48,52 H60 V62 H48 Z" />
+</vector>

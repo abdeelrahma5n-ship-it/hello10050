@@ -1,0 +1,8 @@
+{
+  "name": "semsarkApps",
+  "description": "تطبيق العقارات الأول لمركز أولاد صقر بمحافظة الشرقية - بيع، شراء، إيجار منازل، أراضي، شقق، ومساعد ذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
